@@ -1,4 +1,4 @@
-#ChitraKhoj - Image Search Engine
+## ChitraKhoj - Image Search Engine ##
 
 Welcome to ChitraKhoj, a sleek and intuitive image search engine powered by the Unsplash API. Search for stunning images with ease and explore a world of visual inspiration!
 
