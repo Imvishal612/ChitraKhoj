@@ -27,7 +27,7 @@ Cross-Platform: Works effortlessly on desktop and mobile devices.
 
 
 🚀 Demo
- ! [Screenshot] Chitra.jpg
+Screenshot](Chitra.jpg)
 
 
 
