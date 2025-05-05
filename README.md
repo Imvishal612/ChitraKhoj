@@ -1,139 +1,106 @@
-## ChitraKhoj - Image Search Engine ##
+# **ChitraKhoj - Image Search Engine**
 
-Welcome to ChitraKhoj, a sleek and intuitive image search engine powered by the Unsplash API. Search for stunning images with ease and explore a world of visual inspiration!
+Welcome to **ChitraKhoj**, a sleek and intuitive image search engine powered by the **Unsplash API**. Search for stunning images effortlessly and dive into a world of **visual inspiration**.
 
+---
 
+## ✨ Features
 
-✨ Features
+* **Simple & Elegant UI**
+  Clean design with a fully responsive layout.
 
+* **Fast Search**
+  Powered by the Unsplash API for blazing-fast image retrieval.
 
+* **Infinite Scroll**
+  Click “Show More” to seamlessly load more results.
 
+* **Cross-Platform Compatibility**
+  Works beautifully on both desktop and mobile devices.
 
+---
 
-Simple & Elegant UI: Clean design with a responsive layout.
+## 🚀 Demo
 
-
-
-Fast Search: Powered by Unsplash API for quick image retrieval.
-
-
-
-Infinite Scroll: Click "Show More" to load additional results seamlessly.
-
-
-
-Cross-Platform: Works effortlessly on desktop and mobile devices.
-
-
-
-🚀 Demo
 ![Screenshot](Chitra.jpg)
 
+---
 
+## 🛠️ Installation
 
+Follow these steps to set up **ChitraKhoj** locally:
 
+### 1. Clone the Repository
 
-🛠️ Installation
-
-Follow these steps to set up ChitraKhoj locally:
-
-
-
-
-
-Clone the Repository
-
+```bash
 git clone https://github.com/imvishal612/ChitraKhoj.git
 cd ChitraKhoj
+```
 
+### 2. Open the Project
 
+Simply open `Img.html` in your browser to start using the app.
+No additional dependencies required!
 
-Open the Project
-Simply open Img.html in your browser to start using the app. No additional dependencies required!
+> **Optional:** Use a local server (e.g., **Live Server** in VS Code) for a smoother development experience.
 
+---
 
+## 📖 Usage
 
-Optional: Host Locally
-Use a local server (e.g., Live Server in VS Code) for a better development experience.
+1. Enter a search term in the input box (e.g., `"nature"`, `"cats"`, `"technology"`).
+2. Click the **Search** button or press **Enter**.
+3. Browse results and click **Show More** to load additional images.
 
+---
 
+## 🧑‍💻 Technologies Used
 
-📖 Usage
+* **HTML5** – Structure of the app
+* **CSS3** – Stylish, minimalistic design
+* **JavaScript** – Dynamic features and API integration
+* **Unsplash API** – Source of high-quality images
 
+---
 
+## 📜 License
 
+This project is licensed under the **MIT License**.
+See the [LICENSE](LICENSE) file for details.
 
+---
 
-Enter a search term in the input box (e.g., "nature", "cats", "technology").
+## 🤝 Contributing
 
+Contributions are welcome!
 
+1. **Fork** the repository
+2. Create a **new branch**
 
-Click the "Search" button or press Enter.
+   ```bash
+   git checkout -b feature-branch
+   ```
+3. **Make your changes** and commit
 
+   ```bash
+   git commit -m "Add feature"
+   ```
+4. **Push to your branch**
 
+   ```bash
+   git push origin feature-branch
+   ```
+5. Open a **Pull Request**
 
-Browse the results and click "Show More" to load additional images.
+---
 
+## 📧 Contact
 
+Created by [**Singh Vishal**](imvishal612@gmail.com)
+Feel free to reach out—your feedback is appreciated!
 
-🧑‍💻 Technologies Used
+---
 
+**Happy searching with ChitraKhoj!**
 
-
-
-
-HTML5: Structure of the app.
-
-
-
-CSS3: Styling with a modern, minimalistic design.
-
-
-
-JavaScript: Dynamic functionality and API integration.
-
-
-
-Unsplash API: Source of high-quality images.
-
-
-
-📜 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-
-
-🤝 Contributing
-
-Contributions are welcome! Here's how you can help:
-
-
-
-
-
-Fork the repository.
-
-
-
-Create a new branch (git checkout -b feature-branch).
-
-
-
-Make your changes and commit (git commit -m "Add feature").
-
-
-
-Push to the branch (git push origin feature-branch).
-
-
-
-Open a Pull Request.
-
-
-
-📧 Contact
-
-Created by imvishal612 - feel free to reach out!
-
-Happy searching with ChitraKhoj! 🌟
+---
